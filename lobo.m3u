@@ -17,3 +17,6 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/0sw1je4dml1k3scq0tft60b43l6tx9x
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/6/15/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-png-favpng-JzEN24XHZxAaSHWbfquHjsg6N.jpg" group-title="CANAL ABERTO", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1264213118.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3oCl_KFFtsE/X9ToWP3XcoI/AAAAAAAAD9U/UkImSbf0qCAiX8-lhGbZLIbRtIhFO5FnACLcBGAsYHQ/s0/LOADING%2BTV.png" group-title="CANAL ABERTO", LOADING TV
+https://aws-br.cdn.booyah.live/hls/1000029/34850987_480.m3u8
