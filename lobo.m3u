@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="CANAL ABERTO", REDE TV
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1118378953_b1125969.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAL ABERTO", RECORD RIO
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
@@ -13,4 +13,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=
 https://cdn.esporteone.com/GLOBORJ/video.m3u8?md5=fk-3oNeJcduYe9Es6sqJcg&expires=1616465301
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAL ABERTO", SBT
-https://cdn.esporteone.com/SBTHD/video.m3u8?md5=ZWxizUWJsiN3ADvDF-n29w&expires=1616465707
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0sw1je4dml1k3scq0tft60b43l6tx9x7/chunklist_w2069440957.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/24/6/15/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-png-favpng-JzEN24XHZxAaSHWbfquHjsg6N.jpg" group-title="CANAL ABERTO", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1264213118.m3u8
