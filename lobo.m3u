@@ -11,3 +11,6 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5f/Rede-Globo-logo-2014-2.png/revision/latest/top-crop/width/300/height/300?cb=20140407191440" group-title="CANAL ABERTO", GLOBO RIO
 https://cdn.esporteone.com/GLOBORJ/video.m3u8?md5=fk-3oNeJcduYe9Es6sqJcg&expires=1616465301
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAL ABERTO", SBT
+https://cdn.esporteone.com/SBTHD/video.m3u8?md5=ZWxizUWJsiN3ADvDF-n29w&expires=1616465707
