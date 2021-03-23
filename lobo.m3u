@@ -33,8 +33,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF:-1 tvg-logo="https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg" group-title="CANAL ABERTO", FOX SPORTS
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:0,TNT
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/1073.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRA - TNT HD" tvg-logo="" group-title="",BRA - TNT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/63
 
-#EXTINF:0,TNT HD
-http://painel.tvdigitalsbl.net:8081/live/gordo/gordo/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRA - TNT  HD" tvg-logo="" group-title="",BRA - TNT  HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/102
